@@ -1,0 +1,27 @@
+Goatsx
+    health damage skill
+
+Troll
+    damage health skill
+
+Attack
+    Name
+    Number of htis
+    Damge Type
+
+Mage
+    Name
+    max/current hp
+ --------------------------
+Common fields:
+Attack, health, maxhp
+constructor, accessors, heal, is_conscious
+
+Unique to mage:
+maxhp = 100
+attack.length = 4
+
+Unique to fighter:
+maxhp = 150
+aattack.length = 1
+    

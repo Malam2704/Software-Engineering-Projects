@@ -1,0 +1,17 @@
+Product
+    name: String
+    code: int
+    MSRP: double
+
+Truck
+    capacity: Product[]
+    load_truck()
+    unload_truck()
+
+Factory
+    product: whichchever Product class
+    make_product()
+
+Complex
+    factoryies: Factory[]
+

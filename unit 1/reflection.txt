@@ -1,0 +1,5 @@
+1/27/2020
+I learned about casting and the differences fo python and ajava, where java si a lot more specific
+typically absed on sizes of the files and data structures we are using
+
+I want to learn the testing module again, along with scanner, ebcuase thsi is very confusing, and wha can't I turn an int from a String

@@ -1,0 +1,3 @@
+I learned the p[ower fo enumerations and extending the class]
+
+We have enough power to make a class, and extend it on to do more!

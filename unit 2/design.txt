@@ -1,0 +1,18 @@
+star wars battle game
+    simuklates
+
+ships
+    hull rating
+    shields
+    armament(weapon)
+    sustain damage
+
+shields
+    amount
+    recharge
+    deplete
+
+weapon
+    name
+    color
+    damage

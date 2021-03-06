@@ -1,0 +1,6 @@
+I learned abotu private and publci fields in the type of Java classes,and how to write constructors
+
+I also reviewewd alot of python mateiral whcih seems scary to me, like advanced features
+of class such as privatization, which I osrt of get but don'the
+
+I wish I knew more abotu privatization and hwo to get the specific utilization of each class.

@@ -1,0 +1,5 @@
+State:
+    name, attack, max_hp, regen %
+
+Behavior:
+getname, get damage type, constructor, getters setters, regenerate, take damage

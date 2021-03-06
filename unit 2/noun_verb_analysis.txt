@@ -1,0 +1,18 @@
+Library
+    Book_shelves(just one technically for all fo them): array
+
+Book
+    Title: string 
+
+    Author: String
+
+    Count: int
+
+    available(if not all copies are checked out): boolean
+
+Person
+    name: String
+
+    checked_out_book: Class 
+
+Verbs: checkout, return
