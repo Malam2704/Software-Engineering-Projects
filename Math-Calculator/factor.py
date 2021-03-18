@@ -16,8 +16,8 @@ def Factor(function):
 
     # print(number1)
     # print(number2)
-    for i in range(abs(number2)+1):
-        for j in range(abs(number2) + 1):
+    for i in range(-abs(number2),abs(number2)+1):
+        for j in range(-abs(number2),abs(number2) + 1):
             # print("i+j = " + str(i+j))
             # print("i*j = " + str(i*j))
             if(i + j == number1 and i * j == number2):
