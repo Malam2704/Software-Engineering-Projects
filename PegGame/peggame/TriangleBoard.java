@@ -86,7 +86,7 @@ public class TriangleBoard {
 
     @Override
     public String toString() {
-        String rowString = "";
+        String rowString = "\n";
         int rowNum = myCoordinates.length;
         for(Location[] j :myCoordinates){
             for(int i=0; i<rowNum; i++) {

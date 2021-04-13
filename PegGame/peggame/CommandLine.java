@@ -44,7 +44,7 @@ public class CommandLine {
                     "  move r1 c1 r2 c2 - attempts to move a peg from r1 c1 to r2 c2 on the board."  + "\n" +
                     "  hint - displays an available successful move."  + "\n" +
                     "  quit - quits the game" + "\n" +
-                    "  solve - runs a backtracking configuration to solve the files game"
+                    " " // solve - runs a backtracking configuration to solve the files game"
                     );
             } else if(command.equals("hint")) {
                 //gives user random possible move
