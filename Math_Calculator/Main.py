@@ -22,6 +22,7 @@ def Welcome():
         function = input("Enter your function: ")
         print(factor.Factor(function))
     elif answer == 3:
+        return 0
         
 
 def main():
