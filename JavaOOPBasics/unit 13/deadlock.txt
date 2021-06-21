@@ -1,0 +1,5 @@
+1st is yes because you are synchronizing in the not same order
+
+2nd is no because you did not notify the lock, so it's hanging not deadlock
+
+3rd 

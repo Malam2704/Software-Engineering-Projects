@@ -1,0 +1,6 @@
+I learned about networking in java, and how cool such a boring topic's application can be
+
+I wish I knew more about threading becuase that was hard man.
+
+The only question I have is if Bobby can make a better server ebcuase I don't know if it's a shait server
+or my shait code.

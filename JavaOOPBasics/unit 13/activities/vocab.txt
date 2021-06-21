@@ -1,0 +1,11 @@
+class
+object
+field
+method
+Polymorphism
+Encapsulation
+inheritance
+polymorphism - what appears to be one mehtod may at run time be a different implementation
+Encapsulation - refers to the fact that
+override
+java lang object

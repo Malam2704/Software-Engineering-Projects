@@ -1,0 +1,9 @@
+How will you represent the state of a configuration?
+where the Queens have been placed 
+
+How will you determien fi a confuiguration is valid or not?
+Does the can attack mehtod return true?
+
+How will you determine whether or not a configuration?
+
+What do the successors of each configuration reprsent?

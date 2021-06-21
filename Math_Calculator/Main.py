@@ -19,10 +19,17 @@ def Welcome():
     if (answer) == 1:
         BasicMaker()
     elif answer == 2:
+        function = input("Enter your function: ")
+        print(factor.Factor(function))
+    elif answer == 3:
+        
 
 def main():
-    print(basics.Add(5,6))
-    print(factor.Factor("x^2 - 5x + 4"))
+    print("Welcome the the Math-Calculus Calculator, where we solve all of your calculus needs")
+    print("REMEMBER TO SPACE OUT YOUR OPERATIONS e.g. x^2 - 5x + 4")
+    Welcome()
+    #print(basics.Add(5,6))
+    #print(factor.Factor("x^2 - 5x + 4"))
 
 if __name__ == "__main__":
     main()

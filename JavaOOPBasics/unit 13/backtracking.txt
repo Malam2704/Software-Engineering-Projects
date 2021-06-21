@@ -1,0 +1,8 @@
+RR RR MM S
+RR RR MM M
+RR RR MM M
+
+Backtracking 2:
+Successor would be the box that fits in a position.
+Pruning - remove box if there's no place it can fit.
+Goal - if all the spaces are filled out.

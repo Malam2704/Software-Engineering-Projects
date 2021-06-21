@@ -1,0 +1,6 @@
+Comparable
+A compare to B
+<0
+Comparator
+Compare(A,B)
+above 0

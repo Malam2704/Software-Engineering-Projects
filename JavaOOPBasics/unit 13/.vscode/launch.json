@@ -1,0 +1,154 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch ClickCounter",
+            "request": "launch",
+            "mainClass": "ClickCounter",
+            "projectName": "assignment-13-Malam2704_3c29dc29"
+        },
+        {
+            "type": "java",
+            "name": "Launch HttpGet",
+            "request": "launch",
+            "mainClass": "HttpGet",
+            "projectName": "assignment-13-Malam2704_3c29dc29"
+        },
+        {
+            "type": "java",
+            "name": "Launch Incremementor",
+            "request": "launch",
+            "mainClass": "Incremementor",
+            "projectName": "assignment-13-Malam2704_3c29dc29"
+        },
+        {
+            "type": "java",
+            "name": "Launch Polite",
+            "request": "launch",
+            "mainClass": "Polite",
+            "projectName": "assignment-13-Malam2704_3c29dc29"
+        },
+        {
+            "type": "java",
+            "name": "Launch Printer",
+            "request": "launch",
+            "mainClass": "Printer",
+            "projectName": "assignment-13-Malam2704_3c29dc29"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sleeper",
+            "request": "launch",
+            "mainClass": "Sleeper",
+            "projectName": "assignment-13-Malam2704_3c29dc29"
+        },
+        {
+            "type": "java",
+            "name": "Launch Car",
+            "request": "launch",
+            "mainClass": "activities.Car",
+            "projectName": "assignment-13-Malam2704_3c29dc29"
+        },
+        {
+            "type": "java",
+            "name": "Launch Cat",
+            "request": "launch",
+            "mainClass": "activities.Cat",
+            "projectName": "assignment-13-Malam2704_3c29dc29"
+        },
+        {
+            "type": "java",
+            "name": "Launch FileIO",
+            "request": "launch",
+            "mainClass": "activities.FileIO",
+            "projectName": "assignment-13-Malam2704_3c29dc29"
+        },
+        {
+            "type": "java",
+            "name": "Launch ForLoop",
+            "request": "launch",
+            "mainClass": "activities.ForLoop",
+            "projectName": "assignment-13-Malam2704_3c29dc29"
+        },
+        {
+            "type": "java",
+            "name": "Launch Output",
+            "request": "launch",
+            "mainClass": "activities.Output",
+            "projectName": "assignment-13-Malam2704_3c29dc29"
+        },
+        {
+            "type": "java",
+            "name": "Launch ShapePrinter",
+            "request": "launch",
+            "mainClass": "activities.ShapePrinter",
+            "projectName": "assignment-13-Malam2704_3c29dc29"
+        },
+        {
+            "type": "java",
+            "name": "Launch TraditionalCat",
+            "request": "launch",
+            "mainClass": "activities.TraditionalCat",
+            "projectName": "assignment-13-Malam2704_3c29dc29"
+        },
+        {
+            "type": "java",
+            "name": "Launch Task",
+            "request": "launch",
+            "mainClass": "assignmenttwo.Task",
+            "projectName": "assignment-13-Malam2704_3c29dc29"
+        },
+        {
+            "type": "java",
+            "name": "Launch BacktrackingConfiguration",
+            "request": "launch",
+            "mainClass": "backtracker.BacktrackingConfiguration",
+            "projectName": "assignment-13-Malam2704_3c29dc29"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hangman",
+            "request": "launch",
+            "mainClass": "backtracker.Hangman",
+            "projectName": "assignment-13-Malam2704_3c29dc29"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinaryNode",
+            "request": "launch",
+            "mainClass": "bst.BinaryNode",
+            "projectName": "assignment-13-Malam2704_3c29dc29"
+        },
+        {
+            "type": "java",
+            "name": "Launch BstAsGraph",
+            "request": "launch",
+            "mainClass": "bst.BstAsGraph",
+            "projectName": "assignment-13-Malam2704_3c29dc29"
+        },
+        {
+            "type": "java",
+            "name": "Launch FruitStand",
+            "request": "launch",
+            "mainClass": "fruit.FruitStand",
+            "projectName": "assignment-13-Malam2704_3c29dc29"
+        },
+        {
+            "type": "java",
+            "name": "Launch RITClass",
+            "request": "launch",
+            "mainClass": "ritclass.RITClass",
+            "projectName": "assignment-13-Malam2704_3c29dc29"
+        }
+    ]
+}

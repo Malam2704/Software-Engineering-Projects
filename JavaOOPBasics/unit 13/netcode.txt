@@ -1,0 +1,4 @@
+Construct a server listens for incoming connections on 33075 - ServerSocket new 33075
+A client opens a connection to buttercup.rit.edu:7611 - new Socket with those
+The server receives and creates connection - socket client = server.accept
+Get the resource used to write bytes of data to the other end fo the connection - 

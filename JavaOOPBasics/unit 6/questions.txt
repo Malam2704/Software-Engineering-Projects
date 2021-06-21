@@ -1,0 +1,28 @@
+list
+binary tree
+binary search tree
+array Heap
+
+Graph or Not:
+1 false
+2 true
+3 true
+4 true
+5 false
+6 false
+
+Adjacency Lists:
+Z - Y,X
+Y - Z,X,V
+X - Z,Y
+V - Y
+W - U,T
+T - W
+U - W
+
+A - B
+B - A,C
+
+Breadth - First Search
+G to C: G C 
+F to C: F E G C 

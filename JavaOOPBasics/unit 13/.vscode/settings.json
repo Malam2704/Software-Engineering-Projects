@@ -1,0 +1,18 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Java\\Junit Library\\junit-platform-console-standalone-1.8.0-M1.jar",
+        "e:\\RIT\\Software\\junit_library\\junit-platform-console-standalone-1.7.0-all.jar",
+        "e:\\JavSDk\\javafx-sdk-11.0.2\\lib\\javafx.base.jar",
+        "e:\\JavSDk\\javafx-sdk-11.0.2\\lib\\javafx.controls.jar",
+        "e:\\JavSDk\\javafx-sdk-11.0.2\\lib\\javafx.fxml.jar",
+        "e:\\JavSDk\\javafx-sdk-11.0.2\\lib\\javafx.graphics.jar",
+        "e:\\JavSDk\\javafx-sdk-11.0.2\\lib\\javafx.media.jar",
+        "e:\\JavSDk\\javafx-sdk-11.0.2\\lib\\javafx.swing.jar",
+        "e:\\JavSDk\\javafx-sdk-11.0.2\\lib\\javafx.web.jar",
+        "e:\\JavSDk\\javafx-sdk-11.0.2\\lib\\javafx-swt.jar"
+    ],
+    "java.project.sourcePaths": [
+        "."
+    ],
+}

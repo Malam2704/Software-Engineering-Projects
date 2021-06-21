@@ -1,0 +1,4 @@
+int - Primitive
+String - Primitive
+byte = reference
+short - Primitive

@@ -1,0 +1,16 @@
+Dijkstra's algorith example
+
+    A       B       C       D       E       F
+A: check   7,A                    14,A     9,A
+B:        check    22,B       
+F:                 15,F            11,F    check
+E:                         20,D    check
+C:                check    19,C
+D:                         check
+
+    A       B       C       D       E  
+E: 5,E            12,C     7,E    check
+A: check   8,A    11,A     7,E     
+D:         8,A    11,A    check
+B:        check   10,B
+C:                check

@@ -1,0 +1,5 @@
+Well I guessed I revied the unit 8 material, but more relevant to thsi unit
+I learned about threads, and how processes work on a computer.
+
+Day 2:
+We learned about threads and critical regions with their run time and allocations.

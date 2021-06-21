@@ -1,0 +1,4 @@
+network
+IP address
+IP - network layer protocl repsonsible for routing and  relaying packets of data on the internet.
+

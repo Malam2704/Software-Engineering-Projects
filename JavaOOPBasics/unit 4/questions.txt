@@ -1,0 +1,5 @@
+FIFO: Queue
+key/value pairs: Dictionary
+LIFO: Stack
+unique: Sets
+variable length: list

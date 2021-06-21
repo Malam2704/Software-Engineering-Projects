@@ -1,0 +1,4 @@
+Well it was a fun class sort of, we learned mroe parts of threadngand
+how to count  sutff, with synchronizing
+
+I want to learn how to use threads with more advanced applicaitons that use various threads.

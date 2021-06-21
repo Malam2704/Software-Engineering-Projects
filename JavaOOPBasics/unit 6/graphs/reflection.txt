@@ -1,0 +1,9 @@
+I elarned today about Grpahs and it's vertices
+where each Vertice can be connected directly, or the arrow,
+or indirectly or without the arrow
+
+I wish I knew hwo to get up early on time, btu seriously
+I wish I didn't get lost
+
+I want to know exactly why we need to make new vertices
+each time we make an indirected or undirected connection

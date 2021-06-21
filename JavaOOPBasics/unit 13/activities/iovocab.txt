@@ -1,0 +1,1 @@
+Used to read a sequence of bianry data - Buffered Reader

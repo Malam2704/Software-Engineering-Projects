@@ -1,0 +1,4 @@
+  A    B   C   D   E   F   G 
+0,INF   
+    11,A      5,A
+           7,D            15,D
