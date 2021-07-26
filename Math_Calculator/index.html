@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/css/calculator.css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,900" rel="stylesheet">
+    <script src='assets/scripts/calculator.js'></script>
+    <title>Web-based Calculator</title>
+</head>
+<body>
+    <h1 class="title">Mohammed's Web Calculator</h1>
+    
+    <div id="calculator">
+        <div id="screen"> <p id="numbersArea"></p> </div>
+        
+        <div>
+            <button onclick="clearCalc()">C</button>
+            <button onclick="modNum()">MOD</button>
+            <button onclick="powNum()">^</button>
+            <button onclick="divNum()">/</button>
+        </div>
+
+        <div>
+            <button onclick="enterNum(7)">7</button>
+            <button onclick="enterNum(8)">8</button>
+            <button onclick="enterNum(9)">9</button>
+            <button onclick="mulNum()">x</button>
+        </div>
+        <div>
+            <button onclick="enterNum(4)">4</button>
+            <button onclick="enterNum(5)">5</button>
+            <button onclick="enterNum(6)">6</button>
+            <button onclick="subNum()">-</button>
+        </div>
+        <div>
+            <button onclick="enterNum(1)">1</button>
+            <button onclick="enterNum(2)">2</button>
+            <button onclick="enterNum(3)">3</button>
+            <button onclick="addNum()">+</button>
+        </div>
+        <div>
+            <button onclick="posNeg()">+/-</button>
+            <button onclick="enterNum(0)">0</button>
+            <button onclick="enterNum('.')">.</button>
+            <button onclick="calcEnter()">=</button>
+        </div>
+    </div>
+
+    <footer>
+        <!-- As usual the copyright symbol -->
+        <p style="margin-bottom: .5em;"> &#169; Mohammed Alam 5/26/2020</p>
+        <p>This project was made as a test to my Web Development capabilities & to make the math easier in 
+            my discrete Math, Computer Science classes, along with adding pixels for margin and padding in CSS.
+        </p>
+    </footer>
+</body>
+</html>
