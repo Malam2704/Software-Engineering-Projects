@@ -9,5 +9,7 @@ Here are my Second Semester Software Engineer class training files. Where I have
   - A few tests I've recevied good scores within (practicums), whcih show case my experience with Software Development Fundamentals
 
 Projects Here: 
+- JavaFX Email Client: Using JavaFX I decided to make my own 
+ - Advanced Math Calculator: I had to complete tedious amounts of Discrete Math problems, but all the other webpages were buggy and filled with ads, and I answer these questions in my free time with my chromebook, not at my desktop. These features & extensiosn slow my computer so I needed a bsic calcualtor with all necesarry fucntionalities, but without any useless add-ons, so I decided to just make one. Using JavaScript in an Object Oriented Programming style, I created an interface with HTML/CSS to solve these Math problems.
   - Peg Game: Made with Java, where a user can solve a board. I used inheritance principles with various classes running multiple threads. Principles of Object Oriented       programming were used along with Test Driven Development for the classes. I used Java’s filereader and scanner to make various boards with given files, and used various abstract data types.
-  - Advanced Math Calculator: I had to complete tedious amounts of Discrete Math problems, but all the other webpages were buggy and filled with ads, and I answer these questions in my free time with my chromebook, not at my desktop. These features & extensiosn slow my computer so I needed a bsic calcualtor with all necesarry fucntionalities, but without any useless add-ons, so I decided to just make one. Using JavaScript in an Object Oriented Programming style, I created an interface with HTML/CSS to solve these Math problems.
+ 
